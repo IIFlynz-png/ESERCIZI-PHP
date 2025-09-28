@@ -8,7 +8,7 @@ Input:
 
 Output:
 
-![Output Esercizio A 1](screenshots/image 1.png)
+![Output Esercizio A 1](screenshots/image_1.png)
 
 Input:
 
