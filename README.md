@@ -1,63 +1,55 @@
-# Esercizi Cavallini
+# ESERCIZI 29/09/2025
 
-Questo repository contiene una serie di esercizi PHP e HTML, organizzati in cartelle.
+## ESERCIZIO A
 
-## Struttura del Progetto
+Input:
 
-- `esercitazioneA`: Contiene l'esercizio 1.
-- `esercitazioneB`: Contiene l'esercizio 2.
-- `esercitazioneBadvanced`: Contiene l'esercizio 2-2.
+![Input Esercizio A 1](screenshots/image.png)
 
-## Esercizio 1: Disegno di Figure Geometriche (esercitazioneA)
+Output:
 
-Questo esercizio permette di disegnare diverse figure geometriche (triangolo, triangolo capovolto, quadrato, cornice) specificando la lunghezza del lato.
+![Output Esercizio A 1](screenshots/image1.png)
 
-### Screenshot
+Input:
 
-#### Input Iniziale
+![Input Esercizio A 2](screenshots/image2.png)
 
-![Input Iniziale Esercizio 1](esercizi_cavallini/screenshots/ESA_1.png)
+Output:
 
-#### Triangolo
+![Output Esercizio A 2](screenshots/image3.png)
 
-![Triangolo Esercizio 1](esercizi_cavallini/screenshots/ESA_2.png)
+Input:
 
-#### Triangolo Capovolto
+![Input Esercizio A 3](screenshots/image4.png)
 
-![Triangolo Capovolto Esercizio 1](esercizi_cavallini/screenshots/ESA_3.png)
+Output:
 
-#### Quadrato
+![Output Esercizio A 3](screenshots/image5.png)
 
-![Quadrato Esercizio 1](esercizi_cavallini/screenshots/ESA_4.png)
+Input:
 
-#### Cornice
+![Input Esercizio A 4](screenshots/image6.png)
 
-![Cornice Esercizio 1](esercizi_cavallini/screenshots/ESA_5.png)
+Output:
 
-## Esercizio 2: Numeri Primi (esercitazioneB)
+![Output Esercizio A 4](screenshots/image7.png)
 
-Questo esercizio calcola e visualizza i numeri primi fino a un numero specificato.
+## ESERCIZIO B
 
-### Screenshot
+Input:
 
-#### Input Iniziale
+![Input Esercizio B](screenshots/image8.png)
 
-![Input Iniziale Esercizio 2](esercizi_cavallini/screenshots/ESB_1.png)
+Output:
 
-#### Risultato
+![Output Esercizio B](screenshots/image9.png)
 
-![Risultato Esercizio 2](esercizi_cavallini/screenshots/ESB_2.png)
+## ESERCIZIO B avanzato
 
-## Esercizio 2-2: Numeri Primi Avanzato (esercitazioneBadvanced)
+Input:
 
-Questo esercizio calcola e visualizza i numeri primi tra due numeri specificati.
+![Input Esercizio B avanzato](screenshots/image10.png)
 
-### Screenshot
+Output:
 
-#### Input Iniziale
-
-![Input Iniziale Esercizio 2-2](esercizi_cavallini/screenshots/ES2adv_1.png)
-
-#### Risultato
-
-![Risultato Esercizio 2-2](esercizi_cavallini/screenshots/ES2adv_2.png)
+![Output Esercizio B avanzato](screenshots/image11.png)
