@@ -60,4 +60,7 @@ Input:
 Output:
 
 ![Output Esercizio B avanzato](screenshots/image 11.png)
+<<<<<<< HEAD
+>>>>>>> parent of 650913f (UPDATED README)
+=======
 >>>>>>> parent of 650913f (UPDATED README)
